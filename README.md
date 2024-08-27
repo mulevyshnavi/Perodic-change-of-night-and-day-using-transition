@@ -2,7 +2,7 @@
 
 ## Overview
 
-* This task involoves the periodic change from night to day using transition property.By using the Pseudo-class selector of hover and tranition the periodic changes from night to day is done in a slow and gradual manner.
+* This task involoves the periodic change from night to day using transition property.By using the Pseudo-class selector of hover and transition the periodic changes from night to day is done in a slow and gradual manner.
 
 ## Steps involoved in this task
 ### Step-1:-Setting up the environment for night using background-property.
